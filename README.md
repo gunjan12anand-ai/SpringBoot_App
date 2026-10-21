@@ -1,1 +1,1 @@
-"# git-course demo" 
+"# SpringBoot App using ReactJS and SpringAI" 
